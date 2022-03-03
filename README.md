@@ -1,14 +1,14 @@
-### Hi there 👋
+### Hi there, I'm Gabriel👋
 
 <!--
 **gabrielaranda8/gabrielaranda8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-Here are some ideas to get you started:
+Python Developer. Over 3 years of experience in the Financial Markets, Back Office, Stock Trading and Programming. I also worked with R/Shiny.
 
 - 🔭 I’m currently working on Python Projects
 - 🌱 I’m currently learning Docker, Solidity
-- 👯 I’m looking to collaborate on 
-- 🤔 I’m looking for help with 
+- 👯 I’m looking to collaborate on task automation projects
+- 💻 My website: https://gabrielaranda8.github.io/english.html 
 - 💬 Ask me about Programming
 - 📫 How to reach me: gabrielaranda8@gmail.com
 - 😄 Pronouns: He/His
@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 __Languages & Tools__
 
-<img align="left" alt="Visual Studio" width="26px" src="https://visualstudio.microsoft.com/wp-content/uploads/2019/06/BrandVisualStudioWin2019-3.svg" />
+<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
