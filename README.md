@@ -8,7 +8,7 @@ Python Developer. Over 3 years of experience in the Financial Markets, Back Offi
 - 🔭 I’m currently working on Python Projects
 - 🌱 I’m currently learning Docker, Solidity
 - 👯 I’m looking to collaborate on task automation projects
-- 💻 My website: https://gabrielaranda8.github.io/english.html 
+- 💻 My website: gabrielaranda.com
 - 💬 Ask me about Programming
 - 📫 How to reach me: gabrielaranda8@gmail.com
 - 😄 Pronouns: He/His
