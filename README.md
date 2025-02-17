@@ -3,7 +3,7 @@
 <!--
 **gabrielaranda8/gabrielaranda8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-Python Developer. Over 3 years of experience in the Financial Markets, Back Office, Stock Trading and Programming.
+Python Developer. Over 5 years of experience in the Financial Markets, Back Office, Stock Trading and Programming.
 
 - 🔭 I’m currently working on Python Projects
 - 🌱 I’m currently learning Docker, Solidity
